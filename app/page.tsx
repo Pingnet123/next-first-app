@@ -1,7 +1,7 @@
 export default function Page() {
   return(
     <div>
-      หน้าหลัก
+      หน้าหลักของ Phonkharit Phakdiamnat
     </div>
   )
 }
